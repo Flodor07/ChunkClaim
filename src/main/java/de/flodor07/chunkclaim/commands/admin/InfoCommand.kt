@@ -16,7 +16,7 @@ import org.bukkit.entity.Player
 class InfoCommand : CommandExecutor {
     override fun onCommand(sender: CommandSender, command: Command, label: String, args: Array<out String>): Boolean {
         if(sender is ConsoleCommandSender) return false
-        if(!Plugin.checkPermission(sender, "chunkclaim.info")) return false
+        if(!Plugin.checkPermission(sender, "chunkclaim.admin")) return false
         val player = sender as Player
         val key: String = player.location.chunk.chunkKey.toString();
 

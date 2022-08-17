@@ -3,7 +3,7 @@ version: '${project.version}'
 main: de.flodor07.chunkclaim.Main
 api-version: 1.18
 authors: [ Flodor07 ]
-description: ChuinkClaim Plugin for Boom
+description: A simple ChunkClaim plugin for the BOOM Minecraft Server
 website: https://twitch.tv/Flodor07
 softdepend: [ BetterRTP ]
 commands:

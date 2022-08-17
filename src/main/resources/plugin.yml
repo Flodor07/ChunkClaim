@@ -1,0 +1,21 @@
+name: ChunkClaim
+version: '${project.version}'
+main: de.flodor07.chunkclaim.Main
+api-version: 1.18
+authors: [ Flodor07 ]
+description: ChuinkClaim Plugin for Boom
+website: https://twitch.tv/Flodor07
+softdepend: [ BetterRTP ]
+commands:
+  claim:
+    description: Claim Command
+  unclaim:
+    description: Unclaim Command
+  ctrust:
+    description: Trust Command
+  cuntrust:
+    description: Untrust Command
+  claiminfo:
+    description: Chunkinfo Command
+  removeclaim:
+    description: Removechunk Command

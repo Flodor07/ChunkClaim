@@ -2,7 +2,9 @@
 A simple minecraft plugin to claim chunks
 Made for the BOOM Minecraft Server
 
-##Commands
+Pluginlanguage: German
+
+## Commands
 /claim - Claim the chunk in wich the player is standing  
 /unclaim - Unclaim the chunk in wich the player is standing  
 /trust [Player] - Trust a given player to build in your chunks  

@@ -1,6 +1,5 @@
 # ChunkClaim
-A simple minecraft plugin to claim chunks
-Made for the BOOM Minecraft Server
+A simple minecraft plugin to claim chunks  
 
 Pluginlanguage: German
 

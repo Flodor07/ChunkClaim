@@ -8,10 +8,10 @@ Pluginlanguage: German
 /claim - Claim the chunk in wich the player is standing  
 /unclaim - Unclaim the chunk in wich the player is standing  
 /trust [Player] - Trust a given player to build in your chunks  
-/cuntrust [Player] - Untrust a player
+/cuntrust [Player] - Untrust a player  
 
-/claiminfo - Get the chunkinfo from the chunk in wich the player is standing
-/removeclaim - Unclaime the chunk in wich the player is standing even if it isnt yours
+/claiminfo - Get the chunkinfo from the chunk in wich the player is standing  
+/removeclaim - Unclaime the chunk in wich the player is standing even if it isnt yours  
 
 ## Permissions:
 chunkcliam.claim -  Permission to claim a chunk  
